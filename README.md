@@ -1,5 +1,7 @@
-# Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
-RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
+
+# EX 5 - RECOGNITION OF THE GRAMMAR(and where n>=10) USING YACC
+# NAME - HARSHITHA V
+# REG NO - 212223230074
 # Date: 17/10/25
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
