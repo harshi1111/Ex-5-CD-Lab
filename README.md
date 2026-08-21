@@ -69,10 +69,10 @@ int yywrap() {
 }
 ```
 # OUTPUT
-Valid result,
+## Valid result,
 <img width="600" height="173" alt="image" src="https://github.com/user-attachments/assets/b6ab2f7c-c758-400e-a2a7-5176b804a0e3" />
 
-invalid result,
+## invalid result,
 <img width="576" height="422" alt="image" src="https://github.com/user-attachments/assets/6fbc2930-6459-40d7-8f89-e1b33ad62c17" />
 
 
