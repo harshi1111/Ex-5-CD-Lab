@@ -2,6 +2,7 @@
 # EX 5 - RECOGNITION OF THE GRAMMAR(and where n>=10) USING YACC
 # NAME - HARSHITHA V
 # REG NO - 212223230074
+### DATE - 21/08/2026
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
